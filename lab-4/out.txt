@@ -1,0 +1,63 @@
+# construct empty heap (this is already done in the command interpreter)
+
+# insert 4 items, printing the heap after each insert
+
+Structure of Fibonacci Heap H[0] (rotated 90 degrees to the left):
+
+   491 
+
+Structure of Fibonacci Heap H[0] (rotated 90 degrees to the left):
+
+   122 
+
+   491 
+
+Structure of Fibonacci Heap H[0] (rotated 90 degrees to the left):
+
+   122 
+
+   245 
+
+   491 
+
+Structure of Fibonacci Heap H[0] (rotated 90 degrees to the left):
+
+   122 
+
+   474 
+
+   245 
+
+   491 
+
+# The following command tests minimum() 
+
+Minimum = 122
+# extract mins (quitely after 1st) until empty, printing heap after each one
+
+Minimum extracted = 122
+Structure of Fibonacci Heap H[0] (rotated 90 degrees to the left):
+
+   245    491 
+
+   474 
+
+Structure of Fibonacci Heap H[0] (rotated 90 degrees to the left):
+
+   474    491 
+
+Structure of Fibonacci Heap H[0] (rotated 90 degrees to the left):
+
+   491 
+
+Structure of Fibonacci Heap H[0] (rotated 90 degrees to the left):
+
+H[0] is an empty heap
+
+# attempt to extract min from empty heap
+
+Heap empty, can't extract minimum.
+
+# end of test
+
+

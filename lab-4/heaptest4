@@ -1,0 +1,33 @@
+# construct empty heap (this is already done in the command interpreter)
+c
+
+# insert 9 items
+i 491
+i 122
+i 543
+i 347
+i 235
+i 331
+i 378
+i 245
+i 474
+
+# do an extract min
+e
+
+# show the resulting heap
+S
+
+# decrease key 474 to 231, then show the result
+k 474 231
+S
+
+# decrease key 543 to 477, then show the result
+k 543 477
+S
+
+# decrease key 331 to 233, then show the result
+k 331 233
+S
+
+# end of test

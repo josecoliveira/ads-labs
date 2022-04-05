@@ -1,0 +1,42 @@
+# construct empty heap (this is already done in the command interpreter)
+c
+
+# insert 9 items into Heap H[0] then extract min and show the result
+i 122
+i 543
+i 347
+i 357
+i 235
+i 331
+i 378
+i 245
+i 474
+e
+S
+
+# choose new heap H[1]
+C 1
+
+# insert 5 items into Heap H[1] then extract min and show the result
+i 112
+i 544
+i 321
+i 369
+i 233
+e
+S
+
+# perform the union of heaps H[0] and H[1] into H[2] and show it
+u 0 1 2
+C 2
+S
+
+# show that heap H[0] is empty
+C 0
+S
+
+# show that heap H[1] is empty
+C 1
+S
+
+# end of test

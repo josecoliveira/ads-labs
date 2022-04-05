@@ -1,0 +1,20 @@
+# create tree
+c
+
+# insert 10 items 
+i 372
+i 245
+i 491
+i 474
+i 440
+i 122
+i 418
+i 125
+i 934
+i 752
+
+# Print nodes in order using inorder-tree-walk
+P
+
+# Show tree structure
+S
