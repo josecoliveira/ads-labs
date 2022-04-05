@@ -272,6 +272,7 @@ void RBTree ::RBdelete(NodePtr z)
             x->p = y;
         else
         {
+            RBTransplant(y, y->right);
             y->right = z->right;
             y->right->p = y;
         }

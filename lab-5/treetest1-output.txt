@@ -1,0 +1,26 @@
+# create tree
+
+# insert 10 items 
+
+# Print nodes in order using inorder-tree-walk
+
+Tree elements in order:
+122 125 245 372 418 440 474 491 752 934 
+
+# Show tree structure
+
+Structure of tree (rotated 90 degrees to left):
+
+                      934R
+               752B
+                      491R
+        474R
+               440B
+                      418R
+ 372B
+               245R
+        125B
+               122R
+
+
+
