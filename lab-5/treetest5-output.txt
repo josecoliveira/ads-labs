@@ -1,0 +1,54 @@
+# create tree
+
+# insert 5000 items in order
+
+# search for the last one
+
+key, 99999, found
+
+# delete all but 30
+
+# show structure
+
+Structure of tree (rotated 90 degrees to left):
+
+                      510B
+                             509R
+               508B
+                             496B
+                      487R
+                             481B
+        434B
+                             425B
+                      420B
+                             396B
+               388R
+                             365B
+                      357B
+                             319B
+ 306B
+                             274B
+                      233B
+                             193B
+               166B
+                             141B
+                      134B
+                             133B
+        123R
+                             120B
+                       76B
+                              75B
+                61B
+                              21B
+                       12B
+                               8B
+
+
+# do a traversal
+
+Tree elements in order:
+8 12 21 61 75 76 120 123 133 134 141 166 193 233 274 306 319 357 365 388 396 420 425 434 481 487 496 508 509 510 
+
+# end of test
+
+
